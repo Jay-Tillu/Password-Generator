@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black)
 
-### 🚀 [Live Demo](https://password-generator-jaytillu.vercel.app//)
+### 🚀 [Live Demo](https://passwordgenerator.jaytillu.com)
 
 ## 🌟 Overview
 
